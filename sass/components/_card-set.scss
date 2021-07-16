@@ -15,7 +15,7 @@
     letter-spacing: 0.03em;
     text-align: left;
    
-    color: var(--secondary-text-color);
+    color: $secondary-text-color;
 }
 
 
@@ -28,7 +28,7 @@
 
 
   .card-set__item {
-    flex-basis: calc((100% - 30px * var(--grid-item)) / var(--grid-item));
+    flex-basis: calc((100% - 30px * $grid-item) / $grid-item);
     margin-right: 30px;
     margin-bottom: 30px;
     transition: box-shadow 250ms linear;
