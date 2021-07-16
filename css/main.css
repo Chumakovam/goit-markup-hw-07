@@ -144,11 +144,11 @@ body {
   padding-bottom: 24px;
 }
 
-.logo--black {
+.logo--color-black {
   color: #000000;
 }
 
-.logo--white {
+.logo--color-white {
   color: #fff;
 }
 
@@ -371,7 +371,7 @@ body {
   margin-bottom: 0;
 }
 
-.card-set__item .border {
+.card-set__border {
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 24px;
